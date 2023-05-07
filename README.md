@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I'm learning Java Scripts**
 
-- LinkedIn **https://www.linkedin.com/in/darshan-sarvaiya/**
+- 🧐 LinkedIn **https://www.linkedin.com/in/darshan-sarvaiya/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
