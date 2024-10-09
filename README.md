@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 📫 How to reach me **darshanvijaybhai@gmail.com**
+- 📫 How to reach me **sarvaiyadarshan50@gmail.com**
 
 - ⚡ Fun fact **I'm learning Java Scripts**
 
