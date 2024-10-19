@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Backend Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drsnvs&label=Profile%20views&color=0e75b6&style=flat" alt="drsnvs" /> </p>
-
+<img align='right' src='qr-code.jpg' width=20% />
 - 🔭 I’m currently working on **Backend Projects**
 
 - 🌱 I’m currently learning **Django**
